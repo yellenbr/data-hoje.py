@@ -7,4 +7,4 @@ caminho_digitado = input("Digite o caminho de um diretório: ")
 
 arquivos = listar_arquivos(caminho_digitado)
 
-print("Arquivos e diretórios em {}: {}".format(caminho_digitado, arquivos))
+print("todos os rquivos e diretórios em {}: {}".format(caminho_digitado, arquivos))
